@@ -200,6 +200,32 @@ sections:
   #   design:
   #     columns: "2"
   #     view: card
+  - block: accomplishments
+    id: projects
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      # title: 'Accomplish&shy;ments'
+      title: "Projects"
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ""
+          date_end: "2024-02-01"
+          date_start: "present"
+          description: ""
+          icon: k_startup
+          organization: K-Startup(전북창조경제혁신센터)
+          organization_url: ""
+          title: "Alwaygen: Point-of-care testing project"
+          url: ""
+    design:
+      columns: "2"
   - block: collection
     content:
       title: Recent Publications
