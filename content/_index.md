@@ -216,8 +216,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ""
-          date_end: "2024-02-01"
-          date_start: "present"
+          date_start: "2024-02-01"
           description: ""
           icon: k_startup
           organization: K-Startup(전북창조경제혁신센터)
