@@ -200,6 +200,43 @@ sections:
   #   design:
   #     columns: "2"
   #     view: card
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: "2"
+      view: citation
+- block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Undergraduate Student Researcher
+          company: Connected Intelligence lab, Konkuk University (KU)
+          company_url: ''
+          company_logo: univ-ku
+          location: South Korea
+          date_start: '2022-02-01'
+          date_end: ''
+          description: Conducted research on Distributed DNN Scheduling, Establishing Wireless Multi-hop Network.
+    design:
+      columns: '2'
   - block: accomplishments
     id: projects
     content:
@@ -225,20 +262,7 @@ sections:
           url: ""
     design:
       columns: "2"
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: "2"
-      view: citation
+
   # - block: collection
   #   id: talks
   #   content:
