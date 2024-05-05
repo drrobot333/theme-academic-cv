@@ -215,7 +215,7 @@ sections:
     design:
       columns: "2"
       view: citation
-- block: experience
+  - block: experience
     id: experience
     content:
       title: Experience
@@ -230,14 +230,14 @@ sections:
       items:
         - title: Undergraduate Student Researcher
           company: Connected Intelligence lab, Konkuk University (KU)
-          company_url: ''
+          company_url: ""
           company_logo: univ-ku
           location: South Korea
-          date_start: '2022-02-01'
-          date_end: ''
+          date_start: "2022-02-01"
+          date_end: ""
           description: Conducted research on Distributed DNN Scheduling, Establishing Wireless Multi-hop Network.
     design:
-      columns: '2'
+      columns: "2"
   - block: accomplishments
     id: projects
     content:
