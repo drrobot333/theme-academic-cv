@@ -255,8 +255,9 @@ sections:
       items:
         - certificate_url: ""
           date_start: "2024-02-01"
-          description: ""
-          icon: k_startup
+          date_end: ""
+          description: "Development of Control Program"
+          icon: org-k_startup
           organization: K-Startup(전북창조경제혁신센터)
           organization_url: ""
           title: "Alwaygen: Point-of-care testing project"
