@@ -234,15 +234,14 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text:
       # Contact (add or remove contact options as necessary)
       email: drrobot333@konkuk.ac.kr
       address:
         street: 120, Neungdong-ro
         city: Gwangjin-gu
         region: Seoul, South Korea
-        postcode: "05029"
+        postcode: "(05029)"
       # # Choose a map provider in `params.yaml` to show a map from these coordinates
       # coordinates:
       #   latitude: "37.4275"
@@ -262,14 +261,14 @@ sections:
       #     link: "https://zoom.com"
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: "2"
 ---
