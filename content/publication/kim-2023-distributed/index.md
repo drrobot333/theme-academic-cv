@@ -1,7 +1,7 @@
 ---
 title: Distributed Computation of DNN via DRL With Spatio-Temporal State Embedding
 authors:
-  - admin
+  - Suhwan Kim
   - Sehun Jung
   - Hyang-Won Lee
 date: "2023-01-01"
