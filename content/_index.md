@@ -259,18 +259,18 @@ sections:
           description: "Development of Control Program"
           icon: org-k_startup
           organization: K-Startup(전북창조경제혁신센터)
-          organization_url: ""
+          organization_url: "https://www.k-startup.go.kr/"
           title: "Alwaygen: Point-of-care testing project"
-          url: "https://www.k-startup.go.kr/"
-        - certificate_url: "https://www.gcyf.or.kr/"
+          url: ""
+        - certificate_url: ""
           date_start: "2022-03-01"
           date_end: "2022-11-30"
           description: "Frontend Developer"
           icon: org-goyang_youth_foundation
           organization: Goyang City Youth Foundation(고양시청소년재단)
-          organization_url: ""
-          title: ""
-          url: "GachiDutch: Taxi sharing service"
+          organization_url: "https://www.gcyf.or.kr/"
+          title: "GachiDutch: Taxi sharing service"
+          url: ""
         
     design:
       columns: "2"
