@@ -262,6 +262,16 @@ sections:
           organization_url: ""
           title: "Alwaygen: Point-of-care testing project"
           url: ""
+      items:
+        - certificate_url: ""
+          date_start: "2022-03-01"
+          date_end: "2022-11-30"
+          description: "Frontend Developer"
+          icon: org-goyang_youth_foundation
+          organization: Goyang City Youth Foundation(고양시청소년재단)
+          organization_url: ""
+          title: "GachiDutch: Taxi sharing service"
+          url: ""
     design:
       columns: "2"
 
