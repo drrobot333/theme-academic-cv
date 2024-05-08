@@ -253,7 +253,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: "https://www.k-startup.go.kr/"
+        - certificate_url: ""
           date_start: "2024-02-01"
           date_end: ""
           description: "Development of Control Program"
@@ -261,7 +261,7 @@ sections:
           organization: K-Startup(전북창조경제혁신센터)
           organization_url: ""
           title: "Alwaygen: Point-of-care testing project"
-          url: ""
+          url: "https://www.k-startup.go.kr/"
         - certificate_url: "https://www.gcyf.or.kr/"
           date_start: "2022-03-01"
           date_end: "2022-11-30"
@@ -269,8 +269,8 @@ sections:
           icon: org-goyang_youth_foundation
           organization: Goyang City Youth Foundation(고양시청소년재단)
           organization_url: ""
-          title: "GachiDutch: Taxi sharing service"
-          url: ""
+          title: ""
+          url: "GachiDutch: Taxi sharing service"
         
     design:
       columns: "2"
