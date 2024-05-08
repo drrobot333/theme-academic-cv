@@ -256,7 +256,9 @@ sections:
         - certificate_url: ""
           date_start: "2024-02-01"
           date_end: ""
-          description: "Development of Control Program"
+          description: |-
+            - Development of Control Program
+            - 100M ₩ funded
           icon: org-k_startup
           organization: K-Startup(전북창조경제혁신센터)
           organization_url: "https://www.k-startup.go.kr/"
@@ -265,7 +267,9 @@ sections:
         - certificate_url: ""
           date_start: "2022-03-01"
           date_end: "2022-11-30"
-          description: "Frontend Developer"
+          description: |-
+            - Frontend Developer
+            - 4M ₩ funded
           icon: org-goyang_youth_foundation
           organization: Goyang City Youth Foundation(고양시청소년재단)
           organization_url: "https://www.gcyf.or.kr/"
