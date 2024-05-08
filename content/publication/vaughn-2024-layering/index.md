@@ -3,7 +3,7 @@ title: Layering RL and Lyapunov Optimization for Video Frame Drop and Object Det
   Task Offloading
 authors:
 - Vaughn Sohn
-- Suhwan Kim
+- admin
 - Hyang-Won Lee
 date: '2024-01-01'
 publishDate: '2024-05-08T05:52:08.149650Z'
