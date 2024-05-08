@@ -253,7 +253,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ""
+        - certificate_url: "https://www.k-startup.go.kr/"
           date_start: "2024-02-01"
           date_end: ""
           description: "Development of Control Program"
@@ -262,8 +262,7 @@ sections:
           organization_url: ""
           title: "Alwaygen: Point-of-care testing project"
           url: ""
-      items:
-        - certificate_url: ""
+        - certificate_url: "https://www.gcyf.or.kr/"
           date_start: "2022-03-01"
           date_end: "2022-11-30"
           description: "Frontend Developer"
@@ -272,6 +271,7 @@ sections:
           organization_url: ""
           title: "GachiDutch: Taxi sharing service"
           url: ""
+        
     design:
       columns: "2"
 
